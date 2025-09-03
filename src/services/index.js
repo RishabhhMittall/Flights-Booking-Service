@@ -1,4 +1,4 @@
-const { BookingService } = require("./booking-service");
+const { BookingService } = require('./booking-service');
 
 module.exports = {
     BookingService
